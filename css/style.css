@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .van, .pick-up, .car, .minivan {
   text-align: center;
 }
@@ -42,6 +43,8 @@ ul {
   color: #36393a;
   display: none;
 }
+=======
+>>>>>>> 9cae3bdfeae69c985f953c6dc81b87d7ef821b2d
 .hero-img{
     background-image: url(../image/slider_02.jpg);
     background-size: cover;
