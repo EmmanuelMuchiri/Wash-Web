@@ -20,7 +20,7 @@ $(document).ready(function() {
       $(".deluxe").fadeIn("slow");
       $(".gold").hide();
       $(".premium").hide();
-      
+
     });
     $("#minivan").click(function() {
       $(".platinum").hide();
