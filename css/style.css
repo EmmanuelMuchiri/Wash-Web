@@ -18,23 +18,27 @@
 ul {
   list-style-type: none;
 }
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 833d8c5ccb52c8a3a12c6eb7859e1d0c6a091907
 .deluxe {
-  color: blue;
+  color: #36393a;
   display: none;
 }
 
 .premium {
-  color: red;
+  color: #36393a;
   display: none;
 }
 
 .platinum {
-  color: yellow;
+  color:  #36393a;
   display: none;
 }
 
 .gold {
-  color: green;
+  color: #36393a;
   display: none;
 }
